@@ -1,0 +1,9 @@
+c:\users\moty\documents\visual studio 2010\Projects\usb io\usb io\bin\Debug\usb io.exe
+c:\users\moty\documents\visual studio 2010\Projects\usb io\usb io\bin\Debug\usb io.pdb
+c:\users\moty\documents\visual studio 2010\Projects\usb io\usb io\bin\Debug\usb io.xml
+c:\users\moty\documents\visual studio 2010\Projects\usb io\usb io\obj\x86\Debug\usb_io.Form1.resources
+c:\users\moty\documents\visual studio 2010\Projects\usb io\usb io\obj\x86\Debug\usb_io.Resources.resources
+c:\users\moty\documents\visual studio 2010\Projects\usb io\usb io\obj\x86\Debug\usb io.vbproj.GenerateResource.Cache
+c:\users\moty\documents\visual studio 2010\Projects\usb io\usb io\obj\x86\Debug\usb io.exe
+c:\users\moty\documents\visual studio 2010\Projects\usb io\usb io\obj\x86\Debug\usb io.xml
+c:\users\moty\documents\visual studio 2010\Projects\usb io\usb io\obj\x86\Debug\usb io.pdb

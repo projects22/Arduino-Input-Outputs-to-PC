@@ -1,0 +1,35 @@
+c:\users\moty\documents\visual studio 2010\Projects\usb io\usb io\bin\Release\usb io.exe
+c:\users\moty\documents\visual studio 2010\Projects\usb io\usb io\bin\Release\usb io.pdb
+c:\users\moty\documents\visual studio 2010\Projects\usb io\usb io\bin\Release\usb io.xml
+c:\users\moty\documents\visual studio 2010\Projects\usb io\usb io\obj\x86\Release\usb_io.Form1.resources
+c:\users\moty\documents\visual studio 2010\Projects\usb io\usb io\obj\x86\Release\usb_io.Resources.resources
+c:\users\moty\documents\visual studio 2010\Projects\usb io\usb io\obj\x86\Release\usb io.vbproj.GenerateResource.Cache
+c:\users\moty\documents\visual studio 2010\Projects\usb io\usb io\obj\x86\Release\usb io.exe
+c:\users\moty\documents\visual studio 2010\Projects\usb io\usb io\obj\x86\Release\usb io.xml
+c:\users\moty\documents\visual studio 2010\Projects\usb io\usb io\obj\x86\Release\usb io.pdb
+C:\Users\moty\Documents\Visual Studio 2010\Projects\usb io - Copy\usb io\obj\x86\Release\usb io.exe
+C:\Users\moty\Documents\Visual Studio 2010\Projects\usb io - Copy\usb io\obj\x86\Release\usb io.xml
+C:\Users\moty\Documents\Visual Studio 2010\Projects\usb io - Copy\usb io\obj\x86\Release\usb io.pdb
+C:\Users\moty\Documents\Visual Studio 2010\Projects\usb io - Copy\usb io\bin\Release\usb io.exe
+C:\Users\moty\Documents\Visual Studio 2010\Projects\usb io - Copy\usb io\bin\Release\usb io.pdb
+C:\Users\moty\Documents\Visual Studio 2010\Projects\usb io - Copy\usb io\bin\Release\usb io.xml
+C:\Users\moty\Documents\Visual Studio 2010\Projects\usb io - Copy\usb io\obj\x86\Release\usb_io.Form1.resources
+C:\Users\moty\Documents\Visual Studio 2010\Projects\usb io - Copy\usb io\obj\x86\Release\usb_io.Resources.resources
+C:\Users\moty\Documents\Visual Studio 2010\Projects\usb io - Copy\usb io\obj\x86\Release\usb io.vbproj.GenerateResource.Cache
+C:\Users\moty\Documents\Visual Studio 2010\Projects\usb io\usb io\bin\Release\usb io.exe.manifest
+C:\Users\moty\Documents\Visual Studio 2010\Projects\usb io\usb io\bin\Release\usb io.application
+C:\Users\moty\Documents\Visual Studio 2010\Projects\usb io\usb io\obj\x86\Release\usb io.exe.manifest
+C:\Users\moty\Documents\Visual Studio 2010\Projects\usb io\usb io\obj\x86\Release\usb io.application
+C:\Users\moty\Documents\Visual Studio 2010\Projects\usb io-2\usb io\obj\x86\Release\usb io.exe
+C:\Users\moty\Documents\Visual Studio 2010\Projects\usb io-2\usb io\obj\x86\Release\usb io.xml
+C:\Users\moty\Documents\Visual Studio 2010\Projects\usb io-2\usb io\obj\x86\Release\usb io.pdb
+C:\Users\moty\Documents\Visual Studio 2010\Projects\usb io-2\usb io\bin\Release\usb io.exe.manifest
+C:\Users\moty\Documents\Visual Studio 2010\Projects\usb io-2\usb io\bin\Release\usb io.application
+C:\Users\moty\Documents\Visual Studio 2010\Projects\usb io-2\usb io\bin\Release\usb io.exe
+C:\Users\moty\Documents\Visual Studio 2010\Projects\usb io-2\usb io\bin\Release\usb io.pdb
+C:\Users\moty\Documents\Visual Studio 2010\Projects\usb io-2\usb io\bin\Release\usb io.xml
+C:\Users\moty\Documents\Visual Studio 2010\Projects\usb io-2\usb io\obj\x86\Release\usb_io.Form1.resources
+C:\Users\moty\Documents\Visual Studio 2010\Projects\usb io-2\usb io\obj\x86\Release\usb_io.Resources.resources
+C:\Users\moty\Documents\Visual Studio 2010\Projects\usb io-2\usb io\obj\x86\Release\usb io.vbproj.GenerateResource.Cache
+C:\Users\moty\Documents\Visual Studio 2010\Projects\usb io-2\usb io\obj\x86\Release\usb io.exe.manifest
+C:\Users\moty\Documents\Visual Studio 2010\Projects\usb io-2\usb io\obj\x86\Release\usb io.application
